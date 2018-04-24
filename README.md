@@ -70,6 +70,7 @@ guidelines for [contributing](./.github/CONTRIBUTING.md) and then check out one 
 
 ## Copying
 
+* **Name**: [Ravada](https://ravada.upc.edu/) is a registered trademark of [UPC](http://www.upc.edu).
 * **Name**: [GLPI](http://glpi-project.org/) is a registered trademark of [Teclib'](http://www.teclib-edition.com/en/).
 * **Code**: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License ([AGPLv3](https://www.gnu.org/licenses/agpl-3.0.en.html)).
 * **Documentation**: released under Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
