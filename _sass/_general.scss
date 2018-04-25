@@ -27,13 +27,14 @@ img {
 }
 
 .jumbotron {
-  .theme-dark {
+
+  &.theme-dark {
     h3 {
       padding-top: 0;
     }
   }
 
-  .theme-default {
+  &.theme-default {
     background-color: $white;
   }
 }
