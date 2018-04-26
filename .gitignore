@@ -1,0 +1,5 @@
+node_modules
+_site
+.sass-cache
+.vscode
+.DS_Store
