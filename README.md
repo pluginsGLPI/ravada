@@ -7,7 +7,7 @@
 [![Documentation Status](https://readthedocs.org/projects/ravada/badge/?version=latest)](http://ravada.readthedocs.io/en/latest/?badge=latest)
 [![Follow twitter](https://img.shields.io/twitter/follow/ravada_vdi.svg?style=social&label=Twitter&style=flat-square)](https://twitter.com/ravada_vdi)
 [![Follow Twitter](https://img.shields.io/badge/Twitter-GLPI%20Project-26A2FA.svg)](https://twitter.com/GLPI_PROJECT)
-[![Project Status: WIP](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
+[![Project Status: WIP](http://www.repostatus.org/badges/latest/concept.svg)](http://www.repostatus.org/#concept)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 
 Remote Virtual Desktops Manager [Official Website](https://ravada.upc.edu/).
